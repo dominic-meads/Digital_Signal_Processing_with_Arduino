@@ -1,5 +1,8 @@
 /*
   This function performs a convolution based on two arrays
+  
+  for more info on reading numbers from serial monitor please see Paul McWhorter's video https://www.youtube.com/watch?v=7aP5KL5clWA
+  make sure serial monitor is set to "no line ending"
 */
 
 // function declarations /////////////////////////////////////////////////////
